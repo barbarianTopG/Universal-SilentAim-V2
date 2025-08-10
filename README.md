@@ -14,3 +14,4 @@ Tested On:
 
 ![Preview](https://i.vgy.me/JBWBjy.png)
 # CREDITS TO Averiias
+### THIS IS MADE FOR EDUCATIONAL PURPOSES ONLY!!!
