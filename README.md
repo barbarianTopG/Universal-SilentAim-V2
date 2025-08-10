@@ -1,6 +1,6 @@
 # Universal Silent Aim V2
-Universal Silent Aim created for Roblox Experiences
-### On some Roblox Experinces it **might** not work
+Universal Silent Aim created for roblox games.
+### On some roblox games it **might** not work!
 
 Tested On:
 * [BIG Paintball](https://www.roblox.com/games/3527629287) (`FindPartOnRayWithWhitelist`)
