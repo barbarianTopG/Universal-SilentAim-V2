@@ -1,4 +1,4 @@
-# Universal Silent Aim
+# Universal Silent Aim V2
 Universal Silent Aim created for Roblox Experiences that use **Ray Casting**
 
 ### On some Roblox Experinces it **might** not work
